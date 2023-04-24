@@ -20,5 +20,6 @@ public class Programa04 {
         emp.setTelefono("27119");
         
         dAOEmpleado.create(emp);
+        
     }
 }
